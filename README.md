@@ -1,13 +1,9 @@
+![algorithm](https://github.com/user-attachments/assets/82ad01ac-d5fd-4dab-bd00-d26cd87a40a2)
+
 # Основы Алгоритмов от Яндекса
 
 Добро пожаловать в репозиторий с материалами и задачами по основам алгоритмов, подготовленными Яндексом. Этот проект охватывает ключевые концепции алгоритмов, структуры данных и техники их проектирования, а также предоставляет практические задания для закрепления знаний.
-
 ---
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.klipfolio.com%2Fblog%2Falgorithm-in-six-steps&psig=AOvVaw2XW2CicNQZCvjM9U7c6e92&ust=1731760974644000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj01cKu3okDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/f404ee4d-7df6-4862-bfe1-7d58c3b54ab0)
-
----
-
 
 ## Содержание
 
