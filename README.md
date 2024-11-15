@@ -4,6 +4,11 @@
 
 ---
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.klipfolio.com%2Fblog%2Falgorithm-in-six-steps&psig=AOvVaw2XW2CicNQZCvjM9U7c6e92&ust=1731760974644000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj01cKu3okDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/f404ee4d-7df6-4862-bfe1-7d58c3b54ab0)
+
+---
+
+
 ## Содержание
 
 1. **Введение**
